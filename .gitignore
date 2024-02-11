@@ -1,0 +1,13 @@
+Temp
+Library
+Logs
+obj
+Packages
+ProjectSettings
+UserSettings
+.vs
+.vscode
+.vsconfig
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+Bacteria Generator.sln
